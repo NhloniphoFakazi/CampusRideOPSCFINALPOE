@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- App Info -->
+        <string name="app_name">CampusRide</string>
+        <string name="safe_campus_transportation">Safe Campus Transportation</string>
+        <string name="default_web_client_id">1041228462689-j8i169smvjt1lu99ufllehtd8ej0o88p.apps.googleusercontent.com</string>
+
+        <!-- Common -->
+        <string name="welcome">Welcome</string>
+        <string name="login">Login</string>
+        <string name="signup">Sign Up</string>
+        <string name="logout">Logout</string>
+        <string name="save">Save</string>
+        <string name="cancel">Cancel</string>
+        <string name="or">OR</string>
+        <string name="submit">Submit</string>
+        <string name="confirm">Confirm</string>
+        <string name="back">Back</string>
+        <string name="next">Next</string>
+
+
+        <!-- User Types -->
+        <string name="driver">Driver</string>
+        <string name="passenger">Passenger</string>
+        <string name="choose_your_role">Choose Your Role</string>
+        <string name="select_how_you_want_to_use_campusride">Select how you want to use CampusRide</string>
+        <string name="become_a_driver">Become a Driver</string>
+        <string name="be_a_passenger">Be a Passenger</string>
+        <string name="earn_money">Earn Money</string>
+        <string name="get_rides">Get Rides</string>
+
+        <!-- Login & Registration -->
+        <string name="log_in">Login</string>
+        <string name="university_email">University Email</string>
+        <string name="password">Password</string>
+        <string name="forgot_password">Forgot Password?</string>
+        <string name="dont_have_account">Don’t have an account?</string>
+        <string name="already_have_account">Already have an account? Login</string>
+        <string name="register">REGISTER</string>
+        <string name="register_as_driver">Register as Driver</string>
+        <string name="register_as_passenger">Register as Passenger</string>
+        <string name="driver_welcome_message">Hello friend, earn money while helping students travel safely.</string>
+        <string name="passenger_welcome_message">Hello friend, please fill in the following information</string>
+
+        <!-- Form Fields -->
+        <string name="select_institution">Select Institution</string>
+        <string name="full_name">Full Name</string>
+        <string name="course">Course</string>
+        <string name="phone_number">Phone Number</string>
+        <string name="gender">Gender</string>
+        <string name="create_password">Create Password</string>
+        <string name="confirm_password">Confirm Password</string>
+        <string name="current_password">Current Password</string>
+        <string name="new_password">New Password</string>
+        <string name="confirm_new_password">Confirm New Password</string>
+
+        <!-- Driver Specific -->
+        <string name="vehicle_color">Car Color</string>
+        <string name="car_model">Car Model</string>
+        <string name="car_registration">Car Registration Number</string>
+        <string name="car_registration_short">Car Registration</string>
+
+        <!-- Ride Booking -->
+        <string name="book_a_ride">Book a Ride</string>
+        <string name="where_would_you_like_to_go">Where would you like to go?</string>
+        <string name="pickup_location">Pickup Location</string>
+        <string name="dropoff_location">Dropoff Location</string>
+        <string name="tap_to_select_pickup_location">Tap to select pickup location</string>
+        <string name="tap_to_select_dropoff_location">Tap to select dropoff location</string>
+        <string name="use_current_location">Use Current Location</string>
+        <string name="select_vehicle_type">Select Vehicle Type</string>
+        <string name="choose_vehicle_type">Choose vehicle type</string>
+        <string name="book_ride">Book Ride</string>
+        <string name="book_new_ride">Book New Ride</string>
+
+        <!-- Fare & Time -->
+        <string name="estimated_fare_and_time">Estimated Fare and Time</string>
+        <string name="estimated_fare">Estimated Fare</string>
+        <string name="estimated_time">Estimated Time</string>
+        <string name="fare_updates_automatically">Fare updates automatically if locations change</string>
+
+        <!-- Dashboard -->
+        <string name="driver_dashboard">Driver Dashboard</string>
+        <string name="passenger_dashboard">Passenger Dashboard</string>
+        <string name="welcome_driver">Welcome, Driver!</string>
+        <string name="welcome_passenger">Welcome, Passenger!</string>
+        <string name="status_active">Status: Active</string>
+        <string name="ready_to_accept_rides">Ready to accept rides</string>
+        <string name="get_safe_ride_around_campus">Get a safe ride around campus</string>
+        <string name="wallet_balance">Wallet Balance: %s</string>
+
+        <!-- Quick Actions -->
+        <string name="quick_actions">Quick Actions</string>
+        <string name="my_profile">My Profile</string>
+        <string name="my_rides">My Rides</string>
+        <string name="wallet">Wallet</string>
+        <string name="start_driving">Start Driving</string>
+
+        <!-- Stats -->
+        <string name="todays_stats">Today’s Stats</string>
+        <string name="completed_rides">Completed Rides</string>
+        <string name="earnings">Earnings</string>
+        <string name="rating">Rating</string>
+        <string name="recent_activity">Recent Activity</string>
+        <string name="no_recent_activity">No recent activity</string>
+
+        <!-- Profile -->
+        <string name="driver_profile">Driver Profile</string>
+        <string name="passenger_profile">Passenger Profile</string>
+        <string name="account_status_active">Account Status: Active</string>
+        <string name="your_stats">Your Stats</string>
+        <string name="total_rides">Total Rides</string>
+        <string name="total_spent">Total Spent</string>
+        <string name="save_changes">Save Changes</string>
+        <string name="change_password">Change Password</string>
+
+        <!-- Ride Management -->
+        <string name="available_rides">Available Rides</string>
+        <string name="no_ride_requests_available">No ride requests available</string>
+        <string name="track_ride">Track Ride</string>
+        <string name="ride_tracking">Ride Tracking</string>
+        <string name="status_searching_for_drivers">Status: Searching for drivers...</string>
+        <string name="status_assigned">Status: Assigned</string>
+        <string name="passenger_details">Passenger Details</string>
+        <string name="ride_details">Ride Details</string>
+        <string name="your_driver">Your Driver</string>
+        <string name="from">From:</string>
+        <string name="to">To:</string>
+        <string name="distance">Distance:</string>
+
+        <!-- Ride Actions -->
+        <string name="ive_arrived">I’ve Arrived</string>
+        <string name="start_ride">Start Ride</string>
+        <string name="start_trip">Start Trip</string>
+        <string name="complete_ride">Complete Ride</string>
+        <string name="complete_trip">Complete Trip</string>
+        <string name="cancel_ride">Cancel Ride</string>
+        <string name="contact_driver">Contact Driver</string>
+
+        <!-- Ride History -->
+        <string name="ride_history">Ride History</string>
+        <string name="no_ride_history_found">No ride history found</string>
+        <string name="driver_rides">Driver Rides</string>
+        <string name="view_and_manage_your_ride_history">View and manage your ride history</string>
+        <string name="view_your_ride_history_and_bookings">View your ride history and bookings</string>
+        <string name="coming_soon">Coming Soon</string>
+
+        <!-- Rating -->
+        <string name="rate_your_ride">Rate Your Ride</string>
+        <string name="how_was_your_ride">How was your ride?</string>
+        <string name="additional_feedback_optional">Additional feedback (optional)</string>
+        <string name="submit_rating">Submit Rating</string>
+
+        <!-- Location -->
+        <string name="select_location">Select Location</string>
+        <string name="search_for_a_location">Search for a location...</string>
+        <string name="selected_location">Selected Location</string>
+        <string name="tap_on_the_map_to_select_a_location">Tap on the map to select a location</string>
+        <string name="confirm_location">Confirm Location</string>
+        <string name="current_location">Current Location</string>
+
+        <!-- Wallet -->
+        <string name="my_wallet">My Wallet</string>
+        <string name="current_balance">Current Balance</string>
+        <string name="add_money">Add Money</string>
+        <string name="ride_statistics">Ride Statistics</string>
+        <string name="recent_transactions">Recent Transactions</string>
+        <string name="no_recent_transactions">No recent transactions</string>
+        <string name="enter_amount_to_add_to_your_wallet">Enter amount to add to your wallet</string>
+        <string name="amount_r">Amount (R)</string>
+        <string name="example_100_00">Example: 100.00</string>
+
+        <!-- Settings -->
+        <string name="settings">Settings</string>
+        <string name="language">Language</string>
+        <string name="english">English</string>
+        <string name="isizulu">Zulu</string>
+        <string name="select_language">Select Language</string>
+        <string name="select_language_required">Please select a language</string>
+        <string name="language_changed">Language changed</string>
+        <string name="notification_settings">Notification Settings</string>
+        <string name="privacy_policy">Privacy Policy</string>
+        <string name="terms_of_service">Terms of Service</string>
+        <string name="help_support">Help and Support</string>
+        <string name="about">About</string>
+
+
+        <!-- Messages -->
+        <string name="fill_all_fields">Please fill in all fields</string>
+        <string name="invalid_email">Please use a valid university email address</string>
+        <string name="password_length">Password must be at least six characters long</string>
+        <string name="password_mismatch">Passwords do not match</string>
+        <string name="registration_successful">Registered successfully! Welcome to CampusRide.</string>
+        <string name="settings_saved">Settings saved</string>
+        <string name="profile_updated_successfully">Profile updated successfully</string>
+        <string name="password_updated_successfully">Password updated successfully</string>
+        <string name="current_password_incorrect">Current password is incorrect</string>
+        <string name="please_log_in_first">Please log in first</string>
+        <string name="ride_booked_successfully">Ride booked successfully! Searching for drivers...</string>
+        <string name="location_not_found">Location is not found</string>
+        <string name="failed_to_find_location">Failed to find location: %s</string>
+        <string name="pickup_dropoff_same">Pickup and dropoff locations cannot be the same</string>
+        <string name="select_valid_locations">Please select valid locations to calculate fare</string>
+        <string name="successfully_added_money">Successfully added R%s to wallet</string>
+        <string name="thank_you_feedback">Thank you for your feedback!</string>
+        <string name="thank_you_rating">Thank you for your rating!</string>
+        <string name="please_provide_rating">Please provide a rating</string>
+        <string name="invalid_ride_data">Invalid ride data</string>
+        <string name="ride_accepted_successfully">Ride accepted successfully!</string>
+        <string name="please_go_online">Please go online to view ride requests</string>
+        <string name="you_are_now_online">You are now online</string>
+        <string name="you_are_now_offline">You are now offline</string>
+        <string name="driver_profile_not_found">Driver profile not found</string>
+        <string name="no_recent_rides">No recent rides</string>
+        <string name="failed_to_load_profile_data">Failed to load profile data</string>
+        <string name="failed_to_load_ride_statistics">Failed to load ride statistics</string>
+        <string name="failed_to_create_wallet">Failed to create wallet</string>
+        <string name="failed_to_add_money">Failed to add money</string>
+        <string name="add_money_to_wallet">Add Money to Wallet</string>
+        <string name="please_enter_valid_amount">Please enter a valid amount</string>
+        <string name="please_enter_amount">Please enter an amount</string>
+        <string name="are_you_sure_logout">Are you sure you want to log out?</string>
+        <string name="are_you_sure_cancel_ride">Are you sure you want to cancel this ride?</string>
+        <string name="yes_cancel">Yes, Cancel</string>
+        <string name="no">No</string>
+        <string name="ride_request_details">Ride Request Details</string>
+        <string name="accept_ride">Accept Ride</string>
+        <string name="decline">Decline</string>
+        <string name="driver_arrived">Driver Arrived</string>
+        <string name="ride_in_progress">Ride in Progress</string>
+        <string name="ride_completed">Ride Completed</string>
+        <string name="ride_cancelled">Ride Cancelled</string>
+        <string name="searching_for_drivers">Searching for drivers...</string>
+        <string name="driver_assigned_waiting">Driver assigned – Waiting for confirmation</string>
+        <string name="picked_up_on_the_way">Picked up – On the way</string>
+        <string name="on_the_way_to_destination">On the way to destination</string>
+        <string name="assigned_head_to_pickup">Assigned – Head to pickup location</string>
+        <string name="arrived_at_pickup_location">Arrived at pickup location</string>
+        <string name="passenger_picked_up">Passenger picked up – On the way</string>
+        <string name="status_updated_to">Status updated to: %s</string>
+        <string name="driver_phone_not_available">Driver’s phone number not available</string>
+        <string name="error_listening_ride_updates">Error listening for ride updates</string>
+        <string name="how_was_ride_experience">How was your ride experience?</string>
+        <string name="skip">Skip</string>
+
+        <!-- Add these missing strings to your English strings.xml -->
+        <string name="institution">Institution</string>
+        <string name="vehicle">Vehicle</string>
+        <string name="amount">Amount</string>
+        <string name="example">Example</string>
+        <string name="yes">Yes</string>
+        <string name="view_ride_history">View Ride History</string>
+
+
+
+</resources>

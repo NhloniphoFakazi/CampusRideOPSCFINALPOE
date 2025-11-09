@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">I-CampusRide</string>
+    <string name="safe_campus_transportation">Ukuthutha Okuphephile Kwasenkambeni</string>
+
+    <!-- Common -->
+    <string name="welcome">Wamukelekile</string>
+    <string name="login">Ngena ngemvume</string>
+    <string name="signup">Bhalisa</string>
+    <string name="logout">Phuma</string>
+    <string name="save">Londoloza</string>
+    <string name="cancel">Khansela</string>
+    <string name="or">NOMA</string>
+    <string name="submit">Thumela</string>
+    <string name="confirm">Qinisekisa</string>
+    <string name="back">Emuva</string>
+    <string name="next">Olandelayo</string>
+
+    <!-- User Types -->
+    <string name="driver">Umshayeli</string>
+    <string name="passenger">Umhambi</string>
+    <string name="choose_your_role">Khetha Indima Yakho</string>
+    <string name="select_how_you_want_to_use_campusride">Khetha indlela ofuna ukusebenzisa ngayo i-CampusRide</string>
+    <string name="become_a_driver">Yiba Ngumshayeli</string>
+    <string name="be_a_passenger">Yiba Ngumhambi</string>
+    <string name="earn_money">Thola imali</string>
+    <string name="get_rides">Thola izindiza</string>
+
+
+    <!-- Login & Registration -->
+    <string name="log_in">Ngena ngemvume</string>
+    <string name="university_email">I-imeyili YakwaYunivesithi</string>
+    <string name="password">Iphasiwedi</string>
+    <string name="forgot_password">Ukhohliwe Iphasiwedi?</string>
+    <string name="dont_have_account">Awunawo i-akhawunti?</string>
+    <string name="already_have_account">Sewunayo i-akhawunti? Ngena ngemvume</string>
+    <string name="register">BHALISA</string>
+    <string name="register_as_driver">Bhalisa Njengomshayeli</string>
+    <string name="register_as_passenger">Bhalisa Njengomhambi</string>
+    <string name="driver_welcome_message">Sawubona mngane, thola imali ngenkathi usiza abafundi bahambe bahlale bephephile.</string>
+    <string name="passenger_welcome_message">Sawubona mngane, sicela ugcwalise ulwazi olulandelayo</string>
+
+    <!-- Form Fields -->
+    <string name="select_institution">Khetha Isikhungo</string>
+    <string name="full_name">Igama Eliphelele</string>
+    <string name="course">Isifundo</string>
+    <string name="phone_number">Inombolo Yocingo</string>
+    <string name="gender">Ubulili</string>
+    <string name="create_password">Yakha Iphasiwedi</string>
+    <string name="confirm_password">Qinisekisa Iphasiwedi</string>
+    <string name="current_password">Iphasiwedi Yamanje</string>
+    <string name="new_password">Iphasiwedi Entsha</string>
+    <string name="confirm_new_password">Qinisekisa Iphasiwedi Entsha</string>
+
+    <!-- Driver Specific -->
+    <string name="vehicle_color">Umbala Wemoto</string>
+    <string name="car_model">I-Modeli Yemoto</string>
+    <string name="car_registration">Inombolo Yokubhalisa Imoto</string>
+    <string name="car_registration_short">Ukubhalisa Imoto</string>
+
+    <!-- Ride Booking -->
+    <string name="book_a_ride">Bhukha Indiza</string>
+    <string name="where_would_you_like_to_go">Ungathanda ukuya kuphi?</string>
+    <string name="pickup_location">Indawo Yokuthatha</string>
+    <string name="dropoff_location">Indawo Yokuletha</string>
+    <string name="tap_to_select_pickup_location">Thepha ukukhetha indawo yokuthatha</string>
+    <string name="tap_to_select_dropoff_location">Thepha ukukhetha indawo yokuletha</string>
+    <string name="use_current_location">Sebenzisa Indawo Yamanje</string>
+    <string name="select_vehicle_type">Khetha Uhlobo Lwemoto</string>
+    <string name="choose_vehicle_type">Khetha uhlobo lwemoto</string>
+    <string name="book_ride">Bhukha Indiza</string>
+    <string name="book_new_ride">Bhukha Indiza Entsha</string>
+
+    <!-- Fare & Time -->
+    <string name="estimated_fare_and_time">Isilinganiso Senani Nesikhathi</string>
+    <string name="estimated_fare">Isilinganiso Senani</string>
+    <string name="estimated_time">Isilinganiso Sesikhathi</string>
+    <string name="fare_updates_automatically">Inani liyazivumelanisa nezimo uma izindawo zishintsha</string>
+
+    <!-- Dashboard -->
+    <string name="driver_dashboard">I-Dashboard Yomshayeli</string>
+    <string name="passenger_dashboard">I-Dashboard Yomhambi</string>
+    <string name="welcome_driver">Wamukelekile, Mshayeli!</string>
+    <string name="welcome_passenger">Wamukelekile, Mhambi!</string>
+    <string name="status_active">Isimo: Siyasebenza</string>
+    <string name="ready_to_accept_rides">Ukulungele ukwamukela izindiza</string>
+    <string name="get_safe_ride_around_campus">Thola indiza ephephile enkambeni</string>
+    <string name="wallet_balance">I-Balance Yewallet: %s</string>
+
+    <!-- Quick Actions -->
+    <string name="quick_actions">Izenzo Ezesheshayo</string>
+    <string name="my_profile">Iphrofayela Yami</string>
+    <string name="my_rides">Izindiza Zami</string>
+    <string name="wallet">I-Wallet</string>
+    <string name="start_driving">Qala Ukushayela</string>
+
+    <!-- Stats -->
+    <string name="todays_stats">Izibalo Zanamuhla</string>
+    <string name="completed_rides">Izindiza Eziqediwe</string>
+    <string name="earnings">Imali Ethengiwe</string>
+    <string name="rating">Isilinganiso</string>
+    <string name="recent_activity">Umsebenzi Wakamuva</string>
+    <string name="no_recent_activity">Awukho umsebenzi wakamuva</string>
+
+    <!-- Profile -->
+    <string name="driver_profile">Iphrofayela Yomshayeli</string>
+    <string name="passenger_profile">Iphrofayela Yomhambi</string>
+    <string name="account_status_active">Isimo Se-akhawunti: Siyasebenza</string>
+    <string name="your_stats">Izibalo Zakho</string>
+    <string name="total_rides">Izindiza Eziphelele</string>
+    <string name="total_spent">Isamba Esichithiwe</string>
+    <string name="save_changes">Londoloza Izinguquko</string>
+    <string name="change_password">Shintsha Iphasiwedi</string>
+
+    <!-- Ride Management -->
+    <string name="available_rides">Izindiza Ezitholakalayo</string>
+    <string name="no_ride_requests_available">Azikho izicelo zezindiza ezitholakalayo</string>
+    <string name="track_ride">Landela Indiza</string>
+    <string name="ride_tracking">Ukulandela Indiza</string>
+    <string name="status_searching_for_drivers">Isimo: Sifuna abashayeli...</string>
+    <string name="status_assigned">Isimo: Sinikezwe</string>
+    <string name="passenger_details">Imininingwane Yomhambi</string>
+    <string name="ride_details">Imininingwane Yendiza</string>
+    <string name="your_driver">Umshayeli Wakho</string>
+    <string name="from">Kusuka:</string>
+    <string name="to">Kuya:</string>
+    <string name="distance">Ibanga:</string>
+
+    <!-- Ride Actions -->
+    <string name="ive_arrived">Ngifike</string>
+    <string name="start_ride">Qala Indiza</string>
+    <string name="start_trip">Qala Uhambo</string>
+    <string name="complete_ride">Qeda Indiza</string>
+    <string name="complete_trip">Qeda Uhambo</string>
+    <string name="cancel_ride">Khansela Indiza</string>
+    <string name="contact_driver">Xhumana Nomshayeli</string>
+
+    <!-- Ride History -->
+    <string name="ride_history">Umlando Wezindiza</string>
+    <string name="no_ride_history_found">Awukho umlando wezindiza otholakele</string>
+    <string name="driver_rides">Izindiza Zomshayeli</string>
+    <string name="view_and_manage_your_ride_history">Buka futhi uphathe umlando wakho wezindiza</string>
+    <string name="view_your_ride_history_and_bookings">Buka umlando wakho wezindiza nokubhuka</string>
+    <string name="coming_soon">Iyeza Maduze</string>
+
+    <!-- Rating -->
+    <string name="rate_your_ride">Hlaziya Indiza Yakho</string>
+    <string name="how_was_your_ride">Ibekanjani indiza yakho?</string>
+    <string name="additional_feedback_optional">Impendulo eyengeziwe (okukhethwa kukho)</string>
+    <string name="submit_rating">Thumela Isilinganiso</string>
+
+    <!-- Location -->
+    <string name="select_location">Khetha Indawo</string>
+    <string name="search_for_a_location">Sesha indawo...</string>
+    <string name="selected_location">Indawo Ekhethiwe</string>
+    <string name="tap_on_the_map_to_select_a_location">Thepha emephini ukukhetha indawo</string>
+    <string name="confirm_location">Qinisekisa Indawo</string>
+    <string name="current_location">Indawo Yamanje</string>
+
+    <!-- Wallet -->
+    <string name="my_wallet">I-Wallet Yami</string>
+    <string name="current_balance">I-Balance Yamanje</string>
+    <string name="add_money">Faka Imali</string>
+    <string name="ride_statistics">Izibalo Zendiza</string>
+    <string name="recent_transactions">Izintengiselwano Zakamuva</string>
+    <string name="no_recent_transactions">Azikho izintengiselwano zakamuva</string>
+    <string name="enter_amount_to_add_to_your_wallet">Faka inani lokufaka kwi-wallet yakho</string>
+    <string name="amount_r">Inani (R)</string>
+    <string name="example_100_00">Isibonelo: 100.00</string>
+
+    <!-- Settings -->
+    <string name="settings">Izilungiselelo</string>
+    <string name="language">Ulimi</string>
+    <string name="english">IsiNgisi</string>
+    <string name="isizulu">IsiZulu</string>
+    <string name="select_language">Khetha Ulimi</string>
+    <string name="language_changed">Ulimi lushintshe</string>
+    <string name="select_language_required">Sicela ukhethe ulimi</string>
+    <string name="notification_settings">Izilungiselelo Zezaziso</string>
+    <string name="privacy_policy">Inqubomgomo Yobumfihlo</string>
+    <string name="terms_of_service">Imigomo Yesevisi</string>
+    <string name="help_support">Usizo &amp; Ukusekelwa</string>
+    <string name="about">Mayelana</string>
+
+    <!-- Messages -->
+    <string name="fill_all_fields">Sicela ugcwalise zonke izinkambu</string>
+    <string name="invalid_email">Sicela usebenzise ikheli le-imeyili lesikhungo semfundo ephakeme elivumelekile</string>
+    <string name="password_length">Iphasiwedi kufanele ibe nokubamba okungenani amakharekhtha ayisithupha</string>
+    <string name="password_mismatch">Amaphasiwedi awafani</string>
+    <string name="registration_successful">Ubhalise ngempumelelo! Wamukelekile ku-CampusRide.</string>
+    <string name="settings_saved">Izilungiselelo zilondoloziwe</string>
+    <string name="profile_updated_successfully">Iphrofayela ibuyekezwe ngempumelelo</string>
+    <string name="password_updated_successfully">Iphasiwedi ibuyekezwe ngempumelelo</string>
+    <string name="current_password_incorrect">Iphasiwedi yamanje ayilungile</string>
+    <string name="please_log_in_first">Sicela ungene ngemvume kuqala</string>
+    <string name="ride_booked_successfully">Indiza ibhukiwe ngempumelelo! Sifuna abashayeli...</string>
+    <string name="location_not_found">Indawo \'%s\' ayitholakali</string>
+    <string name="failed_to_find_location">Ihlulekile ukuthola indawo: %s</string>
+    <string name="pickup_dropoff_same">Izindawo zokuthatha nokuletha azikwazi ukuba zifana</string>
+    <string name="select_valid_locations">Sicela ukhethe izindawo ezivumelekile ukubala inani</string>
+    <string name="successfully_added_money">Ifakwe ngempumelelo imali engu-R%s kwi-wallet</string>
+    <string name="thank_you_feedback">Siyabonga ngempendulo yakho!</string>
+    <string name="thank_you_rating">Siyabonga ngesilinganiso sakho!</string>
+    <string name="please_provide_rating">Sicela unikeze isilinganiso</string>
+    <string name="invalid_ride_data">Idatha yendiza engavumelekile</string>
+    <string name="ride_accepted_successfully">Indiza yamukelwe ngempumelelo!</string>
+    <string name="please_go_online">Sicela uye ku-inthanethi ukuze ubone izicelo zezindiza</string>
+    <string name="you_are_now_online">Manje useku-inthanethi</string>
+    <string name="you_are_now_offline">Manje usekungaxhunyiwe ku-inthanethi</string>
+    <string name="driver_profile_not_found">Iphrofayela yomshayeli ayitholakali</string>
+    <string name="no_recent_rides">Azikho izindiza zakamuva</string>
+    <string name="failed_to_load_profile_data">Ihlulekile ukulayisha idatha yephrofayela</string>
+    <string name="failed_to_load_ride_statistics">Ihlulekile ukulayisha izibalo zendiza</string>
+    <string name="failed_to_create_wallet">Ihlulekile ukudala i-wallet</string>
+    <string name="failed_to_add_money">Ihlulekile ukufaka imali</string>
+    <string name="add_money_to_wallet">Faka Imali Ku-Wallet</string>
+    <string name="please_enter_valid_amount">Sicela ufake inani elivumelekile</string>
+    <string name="please_enter_amount">Sicela ufake inani</string>
+    <string name="are_you_sure_logout">Uqinisekile ukuthi ufuna ukuphuma?</string>
+    <string name="are_you_sure_cancel_ride">Uqinisekile ukuthi ufuna ukukhansela le ndiza?</string>
+    <string name="yes_cancel">Yebo, Khansela</string>
+    <string name="no">Cha</string>
+    <string name="ride_request_details">Imininingwane Yesicelo Sendiza</string>
+    <string name="accept_ride">Amukela Indiza</string>
+    <string name="decline">Yenqaba</string>
+    <string name="driver_arrived">Umshayeli ufike</string>
+    <string name="ride_in_progress">Indiza Iyaqhubeka</string>
+    <string name="ride_completed">Indiza Iqediwe</string>
+    <string name="ride_cancelled">Indiza Ikhanseliwe</string>
+    <string name="searching_for_drivers">Sifuna abashayeli...</string>
+    <string name="driver_assigned_waiting">Umshayeli unikezwe - Ilinde ukuqinisekiswa</string>
+    <string name="picked_up_on_the_way">Kuthathiwe - Kuya endaweni</string>
+    <string name="on_the_way_to_destination">Kuya endaweni oqondise kuyo</string>
+    <string name="assigned_head_to_pickup">Unikezwe - Donsela endaweni yokuthatha</string>
+    <string name="arrived_at_pickup_location">Kufikiwe endaweni yokuthatha</string>
+    <string name="passenger_picked_up">Umhambi uthathiwe - Kuya endaweni</string>
+    <string name="status_updated_to">Isimo sibuyekezwe libe: %s</string>
+    <string name="driver_phone_not_available">Inombolo yocingo yomshayeli ayitholakali</string>
+    <string name="error_listening_ride_updates">Iphutha ekulaleleni izibuyekezo zendiza</string>
+    <string name="how_was_ride_experience">Ibekanjani indiza yakho?</string>
+    <string name="skip">Yeqa</string>
+
+    <!-- Add these missing strings to your Zulu strings.xml -->
+    <string name="institution">Isikhungo</string>
+    <string name="vehicle">Imoto</string>
+    <string name="amount">Inani</string>
+    <string name="example">Isibonelo</string>
+    <string name="yes">Yebo</string>
+    <string name="view_ride_history">Buka Umlando Wezindiza</string>
+
+</resources>
